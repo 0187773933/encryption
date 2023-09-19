@@ -61,8 +61,8 @@ func TestChaChaEncryptDecryptFile() {
 }
 
 func main() {
-	// TestSecretBoxKeyGeneration()
-	// TestSecretBoxEncryptAndDecrypt()
-	// TestChaChaEncryptDecrypt()
+	TestSecretBoxKeyGeneration()
+	TestSecretBoxEncryptAndDecrypt()
+	TestChaChaEncryptDecrypt()
 	TestChaChaEncryptDecryptFile()
 }
