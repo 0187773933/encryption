@@ -243,6 +243,21 @@ func ChaChaSharedSecretDecryptMessage( shared_secret [32]byte , encrypted_messag
 }
 
 // 1024 bit keypair
+// lattice space = determined by keypair vectors. public
+// public key = "bad" basis vector = far from perpendicular , long
+// private key = "good" basis vector = close to perpendicular , short
+	// - allows the receiver correct the errors of the ciphertext
+		// - finding nearest neighbor efficiently
+			// - navigate the lattice and perform a form of error correction ( de-noise )
+// cipher text :
+	// - essentially its a "noisy" shared key
+	// - its some point in the lattice space that is in-between the real members of the lattice.
+	// - its "noisy" , translated away from a true valid point.
+	// - the attacker can't tell from which of the original points it was derived from
+// https://cryptopedia.dev/posts/kyber
+// https://www.youtube.com/watch?v=QDdOoYdb748
+// https://www.youtube.com/watch?v=K026C5YaB3A
+// https://en.wikipedia.org/wiki/Grover's_algorithm
 func KyberGenerateKeyPair() ( public_key [1568]byte , private_key [3168]byte ) {
 	private_key , public_key , _ = kyberk2so.KemKeypair1024()
 	return
