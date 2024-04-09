@@ -61,7 +61,6 @@ func TestChaChaEncryptDecryptFile() {
 }
 
 func TestCurve25519() {
-
 	// 1.) Setup Keys For Both Parties
 	// Sender
 	alice_public_key , alice_private_key := encryption.CurveX25519GenerateKeyPair()
@@ -100,7 +99,6 @@ func TestCurve25519() {
 }
 
 func TestKyber() {
-
 	// 1.) Setup Keys For Both Parties
 	// 1.1) Sender-Normal
 	alice_public_key , alice_private_key := encryption.CurveX25519GenerateKeyPair()
@@ -150,7 +148,6 @@ func TestKyber() {
 	// 6.) Reciever Decrypts the message
 	decrypted_message := encryption.ChaChaSharedSecretDecryptMessage( bobs_shared_secret_for_session , encrypted_message )
 	fmt.Println( string( decrypted_message ) )
-
 }
 
 func main() {

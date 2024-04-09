@@ -28,4 +28,5 @@ else
 fi
 git commit -m "$NextCommitNumber"
 git remote add origin git@github.com:0187773933/encryption.git
+git push origin --tags
 git push origin master
