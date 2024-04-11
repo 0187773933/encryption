@@ -4,6 +4,9 @@ import (
 	"fmt"
 	"os"
 	"io"
+	"time"
+	sha256 "crypto/sha256"
+	binary "encoding/binary"
 	filepath "path/filepath"
 	base64 "encoding/base64"
 	hex "encoding/hex"
@@ -16,16 +19,54 @@ import (
 	kyberk2so "github.com/symbolicsoft/kyber-k2so"
 )
 
-func SecretBoxGenerateRandomKey() ( key [32]byte ) {
-	random.Read( key[:] )
-	// fmt.Printf( "%x\n" , key )
+func GenerateEntropyBytes1( byte_length int ) ( result []byte ) {
+	b := make( []byte , byte_length )
+	random.Read( b )
+	result = b
+	return
+}
+
+func GenerateEntropyBytes2( byte_length int ) ( result []byte ) {
+	now := time.Now().UnixNano()
+	buf := make( []byte , byte_length )
+	binary.LittleEndian.PutUint64( buf , uint64( now ) )
+	result = buf
+	return
+}
+
+func Sha256Sum( entries [][]byte  ) ( result []byte ) {
+	hasher := sha256.New()
+	for _ , entry := range entries {
+		hasher.Write( entry )
+	}
+	result = hasher.Sum( nil )
+	return
+}
+
+func GenerateRandomBytes( byte_length int ) ( result []byte ) {
+	counter := 0
+	for len( result ) < byte_length {
+		entropy_one := GenerateEntropyBytes1( byte_length )
+		entropy_two := GenerateEntropyBytes2( byte_length )
+		counter_bytes := make( []byte , byte_length )
+		binary.LittleEndian.PutUint64( counter_bytes , uint64( counter ) )
+		counter++
+		block := Sha256Sum( [][]byte{ entropy_one , entropy_two , counter_bytes } )
+		result = append( result , block... )
+	}
+	result = result[ : byte_length ]
 	return
 }
 
 func GenerateRandomString( byte_length int ) ( result string ) {
-	b := make( []byte , byte_length )
-	random.Read( b )
+	b := GenerateRandomBytes( byte_length )
 	result = hex.EncodeToString( b )
+	return
+}
+
+func SecretBoxGenerateRandomKey() ( key [32]byte ) {
+	x := GenerateRandomBytes( 32 )
+	copy( key[ : ] , x )
 	return
 }
 

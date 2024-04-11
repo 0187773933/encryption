@@ -150,11 +150,19 @@ func TestKyber() {
 	fmt.Println( string( decrypted_message ) )
 }
 
+func TestRandom() {
+	x := encryption.GenerateRandomBytes( 300 )
+	fmt.Println( x )
+	y := encryption.GenerateRandomString( 300 )
+	fmt.Println( y )
+}
+
 func main() {
 	// TestSecretBoxKeyGeneration()
 	// TestSecretBoxEncryptAndDecrypt()
 	// TestChaChaEncryptDecrypt()
 	// TestChaChaEncryptDecryptFile()
 	// TestCurve25519()
-	TestKyber()
+	// TestKyber()
+	TestRandom()
 }
