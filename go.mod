@@ -1,6 +1,6 @@
 module github.com/0187773933/encryption
 
-go 1.21
+go 1.22
 
 toolchain go1.22.2
 
