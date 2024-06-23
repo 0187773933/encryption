@@ -1,0 +1,1746 @@
+[1] of 179 === 2018-10-03 @ 22:15:09 === https://285936586.masto.host/@2877133136/100834011376437779
+The Army May Have Found Its Next Rifle In A Colorado Garage  
+[https://www.reddit.com/r/Futurology/comments/9kwuf3/the_army_may_have_found_its_next_rifle_in_a/](https://www.reddit.com/r/Futurology/comments/9kwuf3/the_army_may_have_found_its_next_rifle_in_a/)
+The Army May Have Found Its Next Rifle In A Colorado Garage • r/Futurology
+https://www.reddit.com/r/Futurology/comments/9kwuf3/the_army_may_have_found_its_next_rifle_in_a/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[2] of 179 === 2018-11-21 @ 05:46:33 === https://285936586.masto.host/@2877133136/101107577194096789
+style2paints - An AI-driven lineart colorization tool  
+[https://github.com/lllyasviel/style2paints](https://github.com/lllyasviel/style2paints)
+lllyasviel/style2paints
+https://github.com/lllyasviel/style2paints
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[3] of 179 === 2018-11-28 @ 01:13:08 === https://285936586.masto.host/@2877133136/101146138267818718
+Ultra low light true real time color night vision BroadBand imaging camera  
+[https://www.x20.org/color-night-vision/](https://www.x20.org/color-night-
+vision/)
+Ultra low light true real time color night vision BroadBand imaging camera
+https://www.x20.org/color-night-vision/
+{'neg': 0.117, 'neu': 0.559, 'pos': 0.324, 'compound': 0.7506}
+
+[4] of 179 === 2018-12-14 @ 07:07:38 === https://285936586.masto.host/@2877133136/101238129193798895
+Name that Color - Chirag Mehta : chir.ag  
+[http://chir.ag/projects/name-that-
+color/#849DD2](http://chir.ag/projects/name-that-color/#849DD2)
+Name that Color - Chirag Mehta : chir.ag
+http://chir.ag/projects/name-that-color/#849DD2
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[5] of 179 === 2018-12-16 @ 12:14:21 === https://285936586.masto.host/@2877133136/101250659865633717
+chicken egg color  
+[https://www.reddit.com/r/mildlyinteresting/comments/a6j1da/this_spectrum_of_eggs_from_my_moms_chickens/ebvbgl0](https://www.reddit.com/r/mildlyinteresting/comments/a6j1da/this_spectrum_of_eggs_from_my_moms_chickens/ebvbgl0)
+r/mildlyinteresting - This spectrum of eggs from my mom’s chickens.
+https://www.reddit.com/r/mildlyinteresting/comments/a6j1da/this_spectrum_of_eggs_from_my_moms_chickens/ebvbgl0
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[6] of 179 === 2018-12-16 @ 20:23:34 === https://285936586.masto.host/@2877133136/101252583557488162
+A different Python color shade generator  
+[http://partlyshaderly.com/2018/12/15/ranginak-python-tri-shade-color-
+generator/](http://partlyshaderly.com/2018/12/15/ranginak-python-tri-shade-
+color-generator/)
+Ranginak: Python Tri-Shade Color Generator – Partly Shaderly
+http://partlyshaderly.com/2018/12/15/ranginak-python-tri-shade-color-generator/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[7] of 179 === 2019-02-08 @ 07:20:22 === https://285936586.masto.host/@2877133136/101555268671655612
+Colorful Image Colorization  
+[https://richzhang.github.io/colorization/](https://richzhang.github.io/colorization/)
+Colorful Image Colorization 
+https://richzhang.github.io/colorization/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[8] of 179 === 2019-04-09 @ 09:33:20 === https://285936586.masto.host/@2877133136/101895530122855377
+Colorado 120 years ago  
+[https://i.imgur.com/Bh2nhyJ.jpg](https://i.imgur.com/Bh2nhyJ.jpg)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[9] of 179 === 2019-06-23 @ 06:28:45 === https://285936586.masto.host/@2877133136/102319477564695185
+Icecreamcat (dark Color) Pullover Hoodie By EXBC Design By Humans  
+[https://www.designbyhumans.com/shop/pullover-hoodie/icecreamcat-dark-
+color/977364/](https://www.designbyhumans.com/shop/pullover-
+hoodie/icecreamcat-dark-color/977364/)
+Icecreamcat (dark Color) Pullover Hoodie By EXBC Design By Humans
+https://www.designbyhumans.com/shop/pullover-hoodie/icecreamcat-dark-color/977364/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[10] of 179 === 2019-06-27 @ 20:20:58 === https://285936586.masto.host/@2877133136/102345399213864511
+Color Scheme Generator - Coolors.co  
+[https://coolors.co/c9ddff-
+ecb0e1-de6c83-c1aac0-2cf6b3](https://coolors.co/c9ddff-
+ecb0e1-de6c83-c1aac0-2cf6b3)
+Coolors
+https://coolors.co/c9ddff-ecb0e1-de6c83-c1aac0-2cf6b3
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[11] of 179 === 2019-07-21 @ 02:43:04 === https://285936586.masto.host/@2877133136/102477134848113703
+google chrome - Colors in JavaScript console - Stack Overflow  
+[https://stackoverflow.com/questions/7505623/colors-in-javascript-
+console](https://stackoverflow.com/questions/7505623/colors-in-javascript-
+console)
+Colors in JavaScript console
+https://stackoverflow.com/questions/7505623/colors-in-javascript-console
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[12] of 179 === 2019-08-12 @ 21:43:24 === https://285936586.masto.host/@2877133136/102606189634430988
+Turning water into ice in the quantum realm  
+[https://www.colorado.edu/today/2019/08/02/turning-water-ice-quantum-
+realm](https://www.colorado.edu/today/2019/08/02/turning-water-ice-quantum-
+realm)
+Turning water into ice in the quantum realm
+https://www.colorado.edu/today/2019/08/02/turning-water-ice-quantum-realm
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[13] of 179 === 2019-08-16 @ 06:23:53 === https://285936586.masto.host/@2877133136/102625223227862652
+Exercise ‘delays progression’ of advanced colorectal cancer. Even low-
+intensity exercise, such as walking four or more hours a week, was associated
+with a nearly 20% reduction in cancer progression or death over the course of
+the six-year study  
+[https://www.reddit.com/r/science/comments/cqn0q3/exercise_delays_progression_of_advanced/](https://www.reddit.com/r/science/comments/cqn0q3/exercise_delays_progression_of_advanced/)
+r/science - Exercise ‘delays progression’ of advanced colorectal cancer. Even low-intensity exercise, such as walking four or more hours a week, was associated with a nearly 20% reduction in cancer progression or death over the course of the six-year study
+https://www.reddit.com/r/science/comments/cqn0q3/exercise_delays_progression_of_advanced/
+{'neg': 0.266, 'neu': 0.696, 'pos': 0.039, 'compound': -0.9788}
+
+[14] of 179 === 2019-09-12 @ 15:15:27 === https://285936586.masto.host/@2877133136/102780195820108588
+Sleeping too much, or too little, boosts heart attack risk, according to a new
+study of nearly a half-million people, which found that those who slept fewer
+than six hours were 20% more likely to have a heart attack, and those who
+slept more than nine hours were 34% more likely.  
+[https://www.colorado.edu/today/2019/09/02/sleeping-too-much-or-too-little-
+boosts-heart-attack-risk](https://www.colorado.edu/today/2019/09/02/sleeping-
+too-much-or-too-little-boosts-heart-attack-risk)
+Sleeping too much—or too little—boosts heart attack risk
+https://www.colorado.edu/today/2019/09/02/sleeping-too-much-or-too-little-boosts-heart-attack-risk
+{'neg': 0.162, 'neu': 0.662, 'pos': 0.176, 'compound': 0.4753}
+
+[15] of 179 === 2019-10-12 @ 21:34:14 === https://285936586.masto.host/@2877133136/102951554573693206
+George Ilstrup | Minnesota on Instagram: “Perfect fall colors at Tettegouche 👌🏻” [https://www.instagram.com/p/B3hkG7CFfBl/](https://www.instagram.com/p/B3hkG7CFfBl/)
+George Ilstrup | Minnesota on Instagram: “Perfect fall colors at Tettegouche 👌🏻”
+https://www.instagram.com/p/B3hkG7CFfBl/
+{'neg': 0.0, 'neu': 0.71, 'pos': 0.29, 'compound': 0.9055}
+
+[16] of 179 === 2019-10-15 @ 05:03:17 === https://285936586.masto.host/@2877133136/102964644884377907
+Chromostereopsis eye
+[http://www.ritsumei.ac.jp/~akitaoka/scolor-e.html](http://www.ritsumei.ac.jp/~akitaoka/scolor-e.html)
+Chromostereopsis
+http://www.ritsumei.ac.jp/~akitaoka/scolor-e.html
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[17] of 179 === 2019-12-07 @ 22:41:19 === https://285936586.masto.host/@2877133136/103268907697069990
+Hex Colors
+
+[https://www.color-hex.com/color-palette/85766](https://www.color-
+hex.com/color-palette/85766)
+
+[https://www.colorhexa.com/color-names](https://www.colorhexa.com/color-names)
+
+[#d496f7](https://285936586.masto.host/tags/d496f7)
+
+[#734f96](https://285936586.masto.host/tags/734f96)
+
+[#966fd6](https://285936586.masto.host/tags/966fd6)
+
+[#96c8a2](https://285936586.masto.host/tags/96c8a2)
+
+[#49796b](https://285936586.masto.host/tags/49796b)
+
+[#967bb6](https://285936586.masto.host/tags/967bb6)
+
+#796878
+
+[#01796f](https://285936586.masto.host/tags/01796f)
+
+[#9678b6](https://285936586.masto.host/tags/9678b6)
+
+[#8a496b](https://285936586.masto.host/tags/8a496b)
+tusked unicorn Color Palette
+https://www.color-hex.com/color-palette/85766
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[18] of 179 === 2019-12-15 @ 18:32:34 === https://285936586.masto.host/@2877133136/103313228073033181
+Colors & Fonts, a curated library of colors and fonts for Web Developers &
+Digital Designers. It's completely free to use.
+[https://colorsandfonts.com](https://colorsandfonts.com)
+Curated library of colors, fonts and resources for Web Developers & Digital Designers.
+https://colorsandfonts.com/
+{'neg': 0.0, 'neu': 0.907, 'pos': 0.093, 'compound': 0.5563}
+
+[19] of 179 === 2019-12-17 @ 06:06:08 === https://285936586.masto.host/@2877133136/103321617601271224
+3D PAINT MOON LIGHT LAMP (16colors) [https://toddeals.com/products/3d-paint-
+moon-light-lamp-16colors](https://toddeals.com/products/3d-paint-moon-light-
+lamp-16colors)
+3D PAINT MOON LIGHT LAMP (16colors)
+https://toddeals.com/products/3d-paint-moon-light-lamp-16colors
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[20] of 179 === 2020-01-04 @ 03:43:15 === https://285936586.masto.host/@2877133136/103422977358832421
+Why some knots hold much tighter was poorly understood until new math model
+and color-changing fibers experiments
+[https://www.reddit.com/r/science/comments/ejkuat/why_some_knots_hold_much_tighter_was_poorly/](https://www.reddit.com/r/science/comments/ejkuat/why_some_knots_hold_much_tighter_was_poorly/)
+r/science - Why some knots hold much tighter was poorly understood until new math model and color-changing fibers experiments
+https://www.reddit.com/r/science/comments/ejkuat/why_some_knots_hold_much_tighter_was_poorly/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[21] of 179 === 2020-01-07 @ 19:00:20 === https://285936586.masto.host/@2877133136/103443570415572713
+Color contrast [https://developer.mozilla.org/en-
+US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast](https://developer.mozilla.org/en-
+US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast)
+Color contrast
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[22] of 179 === 2020-01-17 @ 18:47:22 === https://285936586.masto.host/@2877133136/103500142475976404
+Color Scheme Generator  
+Generate - Coolors.co  
+[https://coolors.co/8a496b-40f99b-e4b7e5-b1ddf1-f9f8f8](https://coolors.co/8a496b-40f99b-e4b7e5-b1ddf1-f9f8f8)
+Coolors
+https://coolors.co/8a496b-40f99b-e4b7e5-b1ddf1-f9f8f8
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[23] of 179 === 2020-01-20 @ 22:35:24 === https://285936586.masto.host/@2877133136/103518026127252794
+Lost In History on Instagram: “Members of Dutch Resistance celebrate the news
+of Adolf Hitler's death, April 1945. Colorized”
+[https://www.instagram.com/p/B7jDlwgl7-0/](https://www.instagram.com/p/B7jDlwgl7-0/)
+Lost In History on Instagram: “Members of Dutch Resistance celebrate the news of Adolf Hitler's death, April 1945. Colorized”
+https://www.instagram.com/p/B7jDlwgl7-0/
+{'neg': 0.23, 'neu': 0.632, 'pos': 0.138, 'compound': -0.6124}
+
+[24] of 179 === 2020-01-22 @ 06:30:17 === https://285936586.masto.host/@2877133136/103525555714211258
+Image Colorization [https://deepai.org/machine-learning-
+model/colorizer](https://deepai.org/machine-learning-model/colorizer)
+Image Colorization
+https://deepai.org/machine-learning-model/colorizer
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[25] of 179 === 2020-01-23 @ 05:56:37 === https://285936586.masto.host/@2877133136/103531085665228031
+Python Invert PDF Colors
+
+Lyonk71/invert-pdf-color: A tool to invert the color of PDFs  
+[https://github.com/Lyonk71/invert-pdf-
+color](https://github.com/Lyonk71/invert-pdf-color)
+Lyonk71/invert-pdf-color
+https://github.com/Lyonk71/invert-pdf-color
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[26] of 179 === 2020-01-29 @ 15:50:35 === https://285936586.masto.host/@2877133136/103567395086937402
+Best Valentine's Gift Custom Love Couple Photo Magic Sequins Pillow Multicolor
+Shiny 15.75 [https://mademine.com/products/custom-love-couple-photo-magic-
+sequins-pillow-multicolor-
+shiny-15-75-15-75](https://mademine.com/products/custom-love-couple-photo-
+magic-sequins-pillow-multicolor-shiny-15-75-15-75)
+Best Valentine's Gift Custom Love Couple Photo Magic Sequins Pillow Multicolor Shiny 15.75"*15.75"
+https://mademine.com/products/custom-love-couple-photo-magic-sequins-pillow-multicolor-shiny-15-75-15-75
+{'neg': 0.0, 'neu': 0.525, 'pos': 0.475, 'compound': 0.9738}
+
+[27] of 179 === 2020-02-10 @ 05:20:29 === https://285936586.masto.host/@2877133136/103632865147780992
+"We had an employee lug around a color multi-function laserjet in the back of
+his car. He Strapped it to one of those mobile airport luggage carriers and
+wheeled it around from site to site when he needed to print."  
+[https://www.reddit.com/r/printers/comments/bw4axq/laser_color_printer_to_have_in_the_car_for/epw4t8z/](https://www.reddit.com/r/printers/comments/bw4axq/laser_color_printer_to_have_in_the_car_for/epw4t8z/)
+r/printers - Laser Color Printer to have in the car for printing on the go
+https://www.reddit.com/r/printers/comments/bw4axq/laser_color_printer_to_have_in_the_car_for/epw4t8z/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[28] of 179 === 2020-03-11 @ 21:39:11 === https://285936586.masto.host/@2877133136/103806582878560835
+A program I made a while ago to assist colorblind people in reading color-
+labeled figures on screen. [https://github.com/geovens/Color-
+Assistant](https://github.com/geovens/Color-Assistant)
+geovens/Color-Assistant
+https://github.com/geovens/Color-Assistant
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[29] of 179 === 2020-03-13 @ 19:09:32 === https://285936586.masto.host/@2877133136/103817319065503079
+Breathing dirty air takes a heavy toll on gut bacteria, boosting risk of
+obesity, diabetes, gastrointestinal disorders and other chronic illnesses.
+[https://www.colorado.edu/today/2020/03/11/can-brown-cloud-make-you-gain-
+weight](https://www.colorado.edu/today/2020/03/11/can-brown-cloud-make-you-
+gain-weight)
+Can the brown cloud make you gain weight?
+https://www.colorado.edu/today/2020/03/11/can-brown-cloud-make-you-gain-weight
+{'neg': 0.195, 'neu': 0.667, 'pos': 0.138, 'compound': -0.34}
+
+[30] of 179 === 2020-03-14 @ 04:49:49 === https://285936586.masto.host/@2877133136/103819600815141291
+What an impressive color changing skill! Video by
+[https://t.co/QeJMG56JeX](https://t.co/QeJMG56JeX)
+[https://twitter.com/rfedortsov/status/1237995224498126848/video/1](https://twitter.com/rfedortsov/status/1237995224498126848/video/1)
+{'neg': 0.0, 'neu': 0.715, 'pos': 0.285, 'compound': 0.5562}
+
+[31] of 179 === 2020-04-02 @ 10:14:30 === https://285936586.masto.host/@2877133136/103928461419170099
+COVID19 RNA Visualization(30000 pairs) 9068 Amino acids color coded using
+Tesla Magic Numbers A-3, G-6, C-9, U/T-0
+[https://github.com/Maverick7/Covid19-RNA---amino-acid-
+Analysis](https://github.com/Maverick7/Covid19-RNA---amino-acid-Analysis)
+Maverick7/Covid19-RNA---amino-acid-Analysis
+https://github.com/Maverick7/Covid19-RNA---amino-acid-Analysis
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[32] of 179 === 2020-04-17 @ 23:11:54 === https://285936586.masto.host/@2877133136/104016452965481725
+💙💚💜🔧For those of you asking where my colorful oil slick tools come from, here
+is a quick video on that. My tools tend to be a mix of fabric, crafting, and
+electronics so may not be practical for all kinds or practice.
+[https://t.co/M4BHRFoPdS](https://t.co/M4BHRFoPdS)
+[https://twitter.com/Leeborg_/status/1249837365151109122](https://twitter.com/Leeborg_/status/1249837365151109122)
+lee "quarantine" cyborg 🛰️ on Twitter
+https://t.co/M4BHRFoPdS
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.9274}
+
+[33] of 179 === 2020-04-17 @ 23:12:01 === https://285936586.masto.host/@2877133136/104016453374624277
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[34] of 179 === 2020-04-17 @ 23:12:53 === https://285936586.masto.host/@2877133136/104016456803374883
+💙💚💜🔧For those of you asking where my colorful oil slick tools come from, here
+is a quick video on that. My tools tend to be a mix of fabric, crafting, and
+electronics so may not be practical for all kinds or practice.
+[https://t.co/M4BHRFoPdS](https://t.co/M4BHRFoPdS)
+[https://twitter.com/Leeborg_/status/1249837365151109122](https://twitter.com/Leeborg_/status/1249837365151109122)
+lee "quarantine" cyborg 🛰️ on Twitter
+https://t.co/M4BHRFoPdS
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.9274}
+
+[35] of 179 === 2020-04-17 @ 23:12:59 === https://285936586.masto.host/@2877133136/104016457209903163
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[36] of 179 === 2020-04-17 @ 23:13:20 === https://285936586.masto.host/@2877133136/104016458573476807
+💙💚💜🔧For those of you asking where my colorful oil slick tools come from, here
+is a quick video on that. My tools tend to be a mix of fabric, crafting, and
+electronics so may not be practical for all kinds or practice.
+[https://t.co/M4BHRFoPdS](https://t.co/M4BHRFoPdS)
+[https://twitter.com/Leeborg_/status/1249837365151109122](https://twitter.com/Leeborg_/status/1249837365151109122)
+lee "quarantine" cyborg 🛰️ on Twitter
+https://t.co/M4BHRFoPdS
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.9274}
+
+[37] of 179 === 2020-04-17 @ 23:13:26 === https://285936586.masto.host/@2877133136/104016458993951965
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[38] of 179 === 2020-04-17 @ 23:13:51 === https://285936586.masto.host/@2877133136/104016460607159238
+💙💚💜🔧For those of you asking where my colorful oil slick tools come from, here
+is a quick video on that. My tools tend to be a mix of fabric, crafting, and
+electronics so may not be practical for all kinds or practice.
+[https://t.co/M4BHRFoPdS](https://t.co/M4BHRFoPdS)
+[https://twitter.com/Leeborg_/status/1249837365151109122](https://twitter.com/Leeborg_/status/1249837365151109122)
+lee "quarantine" cyborg 🛰️ on Twitter
+https://t.co/M4BHRFoPdS
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.9274}
+
+[39] of 179 === 2020-04-17 @ 23:13:57 === https://285936586.masto.host/@2877133136/104016461001398168
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[40] of 179 === 2020-04-17 @ 23:14:22 === https://285936586.masto.host/@2877133136/104016462638692649
+💙💚💜🔧For those of you asking where my colorful oil slick tools come from, here
+is a quick video on that. My tools tend to be a mix of fabric, crafting, and
+electronics so may not be practical for all kinds or practice.
+[https://t.co/M4BHRFoPdS](https://t.co/M4BHRFoPdS)
+[https://twitter.com/Leeborg_/status/1249837365151109122](https://twitter.com/Leeborg_/status/1249837365151109122)
+lee "quarantine" cyborg 🛰️ on Twitter
+https://t.co/M4BHRFoPdS
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.9274}
+
+[41] of 179 === 2020-04-17 @ 23:14:28 === https://285936586.masto.host/@2877133136/104016463036076868
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[42] of 179 === 2020-04-17 @ 23:14:50 === https://285936586.masto.host/@2877133136/104016464474114784
+💙💚💜🔧For those of you asking where my colorful oil slick tools come from, here
+is a quick video on that. My tools tend to be a mix of fabric, crafting, and
+electronics so may not be practical for all kinds or practice.
+[https://t.co/M4BHRFoPdS](https://t.co/M4BHRFoPdS)
+[https://twitter.com/Leeborg_/status/1249837365151109122](https://twitter.com/Leeborg_/status/1249837365151109122)
+lee "quarantine" cyborg 🛰️ on Twitter
+https://t.co/M4BHRFoPdS
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.9274}
+
+[43] of 179 === 2020-04-17 @ 23:14:56 === https://285936586.masto.host/@2877133136/104016464832028555
+💙💚💜🔧For those of you asking where my colorful oil slick tools come from, here
+is a quick video on that. My tools tend to be a mix of fabric, crafting, and
+electronics so may not be practical for all kinds or practice.
+[https://t.co/M4BHRFoPdS](https://t.co/M4BHRFoPdS)
+[https://twitter.com/Leeborg_/status/1249837365151109122](https://twitter.com/Leeborg_/status/1249837365151109122)
+lee "quarantine" cyborg 🛰️ on Twitter
+https://t.co/M4BHRFoPdS
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.9274}
+
+[44] of 179 === 2020-04-17 @ 23:14:56 === https://285936586.masto.host/@2877133136/104016464891863845
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[45] of 179 === 2020-04-17 @ 23:15:02 === https://285936586.masto.host/@2877133136/104016465252584527
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[46] of 179 === 2020-04-17 @ 23:17:59 === https://285936586.masto.host/@2877133136/104016476843391689
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[47] of 179 === 2020-04-17 @ 23:18:28 === https://285936586.masto.host/@2877133136/104016478783057278
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[48] of 179 === 2020-04-17 @ 23:18:58 === https://285936586.masto.host/@2877133136/104016480745356215
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[49] of 179 === 2020-04-17 @ 23:19:29 === https://285936586.masto.host/@2877133136/104016482756728215
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[50] of 179 === 2020-04-17 @ 23:19:59 === https://285936586.masto.host/@2877133136/104016484734997329
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[51] of 179 === 2020-04-17 @ 23:20:30 === https://285936586.masto.host/@2877133136/104016486727780538
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[52] of 179 === 2020-04-17 @ 23:20:58 === https://285936586.masto.host/@2877133136/104016488562858001
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[53] of 179 === 2020-04-17 @ 23:21:27 === https://285936586.masto.host/@2877133136/104016490467110171
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[54] of 179 === 2020-04-17 @ 23:21:58 === https://285936586.masto.host/@2877133136/104016492513028542
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[55] of 179 === 2020-04-17 @ 23:22:29 === https://285936586.masto.host/@2877133136/104016494587698393
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[56] of 179 === 2020-04-17 @ 23:22:56 === https://285936586.masto.host/@2877133136/104016496295594886
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[57] of 179 === 2020-04-17 @ 23:23:27 === https://285936586.masto.host/@2877133136/104016498329433483
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[58] of 179 === 2020-04-17 @ 23:23:58 === https://285936586.masto.host/@2877133136/104016500365444088
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[59] of 179 === 2020-04-17 @ 23:24:26 === https://285936586.masto.host/@2877133136/104016502195357058
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[60] of 179 === 2020-04-17 @ 23:24:56 === https://285936586.masto.host/@2877133136/104016504167360257
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[61] of 179 === 2020-04-17 @ 23:25:25 === https://285936586.masto.host/@2877133136/104016506059679788
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[62] of 179 === 2020-04-17 @ 23:25:57 === https://285936586.masto.host/@2877133136/104016508165709969
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[63] of 179 === 2020-04-17 @ 23:26:24 === https://285936586.masto.host/@2877133136/104016509937112364
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[64] of 179 === 2020-04-17 @ 23:26:56 === https://285936586.masto.host/@2877133136/104016512034787976
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[65] of 179 === 2020-04-17 @ 23:27:24 === https://285936586.masto.host/@2877133136/104016513870061905
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[66] of 179 === 2020-04-17 @ 23:30:27 === https://285936586.masto.host/@2877133136/104016525876577435
+PEASS : Privilege Escalation Awesome Scripts SUITE (with colors) :
+[https://t.co/mNhlYN8vcc](https://t.co/mNhlYN8vcc)
+[https://twitter.com/binitamshah/status/1250352725448994818](https://twitter.com/binitamshah/status/1250352725448994818)
+carlospolop/privilege-escalation-awesome-scripts-suite
+https://t.co/mNhlYN8vcc
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.765}
+
+[67] of 179 === 2020-04-18 @ 00:00:23 === https://285936586.masto.host/@2877133136/104016643553555606
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[68] of 179 === 2020-04-18 @ 00:03:23 === https://285936586.masto.host/@2877133136/104016655350588246
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[69] of 179 === 2020-04-18 @ 00:03:53 === https://285936586.masto.host/@2877133136/104016657337922185
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[70] of 179 === 2020-04-18 @ 00:04:25 === https://285936586.masto.host/@2877133136/104016659421673049
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[71] of 179 === 2020-04-18 @ 00:04:55 === https://285936586.masto.host/@2877133136/104016661383395229
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[72] of 179 === 2020-04-18 @ 00:07:56 === https://285936586.masto.host/@2877133136/104016673272079411
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[73] of 179 === 2020-04-18 @ 00:08:26 === https://285936586.masto.host/@2877133136/104016675245201614
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[74] of 179 === 2020-04-18 @ 00:08:56 === https://285936586.masto.host/@2877133136/104016677214360739
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[75] of 179 === 2020-04-18 @ 00:09:28 === https://285936586.masto.host/@2877133136/104016679320656433
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[76] of 179 === 2020-04-18 @ 00:09:56 === https://285936586.masto.host/@2877133136/104016681143459682
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[77] of 179 === 2020-04-18 @ 00:10:26 === https://285936586.masto.host/@2877133136/104016683109086936
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[78] of 179 === 2020-04-18 @ 00:10:56 === https://285936586.masto.host/@2877133136/104016685068563193
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[79] of 179 === 2020-04-18 @ 00:11:25 === https://285936586.masto.host/@2877133136/104016686979752680
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[80] of 179 === 2020-04-18 @ 00:11:57 === https://285936586.masto.host/@2877133136/104016689076793259
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[81] of 179 === 2020-04-18 @ 00:12:28 === https://285936586.masto.host/@2877133136/104016691107124805
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[82] of 179 === 2020-04-18 @ 00:12:58 === https://285936586.masto.host/@2877133136/104016693077544752
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[83] of 179 === 2020-04-18 @ 00:13:26 === https://285936586.masto.host/@2877133136/104016694918089868
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[84] of 179 === 2020-04-18 @ 00:13:57 === https://285936586.masto.host/@2877133136/104016696950925257
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[85] of 179 === 2020-04-18 @ 00:14:26 === https://285936586.masto.host/@2877133136/104016698790772903
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[86] of 179 === 2020-04-18 @ 00:14:56 === https://285936586.masto.host/@2877133136/104016700823973051
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[87] of 179 === 2020-04-18 @ 00:15:25 === https://285936586.masto.host/@2877133136/104016702719201672
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[88] of 179 === 2020-04-18 @ 00:15:56 === https://285936586.masto.host/@2877133136/104016704695518301
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[89] of 179 === 2020-04-18 @ 00:16:25 === https://285936586.masto.host/@2877133136/104016706653850713
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[90] of 179 === 2020-04-18 @ 00:16:58 === https://285936586.masto.host/@2877133136/104016708757322279
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[91] of 179 === 2020-04-18 @ 00:17:25 === https://285936586.masto.host/@2877133136/104016710590630642
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[92] of 179 === 2020-04-18 @ 00:17:58 === https://285936586.masto.host/@2877133136/104016712699329378
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[93] of 179 === 2020-04-18 @ 00:18:29 === https://285936586.masto.host/@2877133136/104016714729577952
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[94] of 179 === 2020-04-18 @ 00:18:57 === https://285936586.masto.host/@2877133136/104016716577263636
+[#つぶやきGLSL](https://285936586.masto.host/tags/%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DGLSL)
+void main(){vec2 p=(gl_FragCoord.xy*2.-r)/r.y;vec2 w=p;for(float
+i=4.;i<15.;++i)w.xy+=sin(sin(w.yx*vec2(92./i,2)+t*8./i+i)*2.5+t*3./i)*vec2(.04,.03);float
+g=abs(w.y)*.3-.01;if(p.y<.0)
+p=w;p.y-=sign(p.y)*.4;gl_FragColor=vec4(.03,.05,.1,1)*g/max(.01,length(p)-.3);}
+[https://t.co/cS5nWf8hlE](https://t.co/cS5nWf8hlE)
+[https://twitter.com/NuSan_fx/status/1250801601419382784](https://twitter.com/NuSan_fx/status/1250801601419382784)
+Antoine Zanuttini on Twitter
+https://t.co/cS5nWf8hlE
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[95] of 179 === 2020-05-09 @ 02:23:38 === https://285936586.masto.host/@2877133136/104136115358927935
+I've been working on a little project - TerminalMediaViewer - An
+utf-8/truecolor image viewer
+[https://github.com/kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer)
+kal39/TerminalMediaViewer
+https://github.com/kal39/TerminalMediaViewer
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[96] of 179 === 2020-05-17 @ 00:50:39 === https://285936586.masto.host/@2877133136/104181048211402692
+Watercolor fruit pictures downloader
+
+aydwi/usda-dl [https://github.com/aydwi/usda-
+dl](https://github.com/aydwi/usda-dl)
+aydwi/usda-dl
+https://github.com/aydwi/usda-dl
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[97] of 179 === 2020-05-27 @ 11:39:17 === https://285936586.masto.host/@2877133136/104240221879323554
+Intelligent Photosensitive Color-changing Glasses [Buy 1 Get 1 Free]
+[https://eonecup.top/products/intelligent-photosensitive-color-changing-
+glasses-buy-1-get-1-free](https://eonecup.top/products/intelligent-
+photosensitive-color-changing-glasses-buy-1-get-1-free)
+Intelligent Photosensitive Color-changing Glasses [Buy 1 Get 1 Free]
+https://eonecup.top/products/intelligent-photosensitive-color-changing-glasses-buy-1-get-1-free
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.9118}
+
+[98] of 179 === 2020-05-30 @ 09:54:10 === https://285936586.masto.host/@2877133136/104256795463339053
+PRAANA & Ram Dass - Still Small Voice
+[https://colorize.ffm.to/stillsmallvoice](https://colorize.ffm.to/stillsmallvoice)
+PRAANA & Ram Dass - Still Small Voice
+https://colorize.ffm.to/stillsmallvoice
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[99] of 179 === 2020-05-30 @ 10:09:28 === https://285936586.masto.host/@2877133136/104256855650499225
+New accessibility feature in @ChromeDevTools: simulate vision deficiencies,
+including blurred vision & various types of color blindness. 🔥 Find out how
+people with vision deficiencies experience your web app, and resolve contrast
+issues you didn’t even know you had!
+[https://twitter.com/mathias/status/1237393102635012101/video/1](https://twitter.com/mathias/status/1237393102635012101/video/1)
+Mathias Bynens on Twitter
+https://twitter.com/mathias/status/1237393102635012101/video/1
+{'neg': 0.047, 'neu': 0.78, 'pos': 0.173, 'compound': 0.6696}
+
+[100] of 179 === 2020-06-24 @ 02:42:56 === https://285936586.masto.host/@2877133136/104396657586351527
+Huatulco, Oaxaca, Mexico Beach with rainbow colors.
+[https://www.reddit.com/r/pics/comments/he7v17/huatulco_oaxaca_mexico_beach_with_rainbow_colors/](https://www.reddit.com/r/pics/comments/he7v17/huatulco_oaxaca_mexico_beach_with_rainbow_colors/)
+r/pics - Huatulco, Oaxaca, Mexico Beach with rainbow colors.
+https://www.reddit.com/r/pics/comments/he7v17/huatulco_oaxaca_mexico_beach_with_rainbow_colors/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[101] of 179 === 2020-06-28 @ 17:36:49 === https://285936586.masto.host/@2877133136/104422821691934131
+Hey you, If you want to upgrade your cat, try bat. alias cat="bat
+--style=grid" It does automatic syntax highlighting, will automatically 'less'
+itself if your file is too large, and detects automatically when you pipe it
+so it doesn't inject colors.
+[https://twitter.com/pry0cc/status/1276671194713001985/photo/1](https://twitter.com/pry0cc/status/1276671194713001985/photo/1)
+{'neg': 0.0, 'neu': 0.969, 'pos': 0.031, 'compound': 0.0772}
+
+[102] of 179 === 2020-07-08 @ 09:56:22 === https://285936586.masto.host/@2877133136/104477634255896489
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[103] of 179 === 2020-07-08 @ 09:56:54 === https://285936586.masto.host/@2877133136/104477636322288950
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[104] of 179 === 2020-07-08 @ 09:57:20 === https://285936586.masto.host/@2877133136/104477638000875935
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[105] of 179 === 2020-07-08 @ 09:57:49 === https://285936586.masto.host/@2877133136/104477639929322070
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[106] of 179 === 2020-07-08 @ 09:58:19 === https://285936586.masto.host/@2877133136/104477641879236108
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[107] of 179 === 2020-07-08 @ 09:58:49 === https://285936586.masto.host/@2877133136/104477643855069856
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[108] of 179 === 2020-07-08 @ 09:59:13 === https://285936586.masto.host/@2877133136/104477645422469744
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[109] of 179 === 2020-07-08 @ 09:59:41 === https://285936586.masto.host/@2877133136/104477647240376902
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[110] of 179 === 2020-07-08 @ 10:00:11 === https://285936586.masto.host/@2877133136/104477649244506974
+Interesting strategic move:. @TencentGlobal / @keen_lab starts building a GNN-
+based binary code similarity database (called BinaryAI, comes with IDAPython
+plugin): code:
+[https://github.com/binaryai/sdk](https://github.com/binaryai/sdk) paper:
+[https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
+(HT @CodeColorist)
+[https://twitter.com/esizkur/status/1280203443592933381](https://twitter.com/esizkur/status/1280203443592933381)
+binaryai/sdk
+https://github.com/binaryai/sdk
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.4019}
+
+[111] of 179 === 2020-07-09 @ 04:54:27 === https://285936586.masto.host/@2877133136/104482109388194943
+The colors and symmetry of Sri Ranganathswamy Temple, India
+[https://www.reddit.com/r/oddlysatisfying/comments/hnj2kv/the_colors_and_symmetry_of_sri_ranganathswamy/](https://www.reddit.com/r/oddlysatisfying/comments/hnj2kv/the_colors_and_symmetry_of_sri_ranganathswamy/)
+r/oddlysatisfying - The colors and symmetry of Sri Ranganathswamy Temple, India
+https://www.reddit.com/r/oddlysatisfying/comments/hnj2kv/the_colors_and_symmetry_of_sri_ranganathswamy/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[112] of 179 === 2020-08-09 @ 22:32:03 === https://285936586.masto.host/@2877133136/104661799630974544
+This is a RAW data video of Saturn captured with my 8-inch telescope and color
+camera. There is no processing and no color has been manipulated.
+[https://www.reddit.com/r/space/comments/i6h1r3/this_is_a_raw_data_video_of_saturn_captured_with/](https://www.reddit.com/r/space/comments/i6h1r3/this_is_a_raw_data_video_of_saturn_captured_with/)
+This is a RAW data video of Saturn captured with my 8-inch telescope and color camera. There is no processing and no color has been manipulated.
+https://www.reddit.com/r/space/comments/i6h1r3/this_is_a_raw_data_video_of_saturn_captured_with/
+{'neg': 0.226, 'neu': 0.774, 'pos': 0.0, 'compound': -0.9001}
+
+[113] of 179 === 2020-08-21 @ 09:03:53 === https://285936586.masto.host/@2877133136/104726569499212643
+I upscaled and colorized the footage about the earliest born person ever
+(1905) to be caught on film which was posted online yesterday by u/Ainsley-
+Sorsby
+[https://www.reddit.com/r/interestingasfuck/comments/idbtrg/i_upscaled_and_colorized_the_footage_about_the/](https://www.reddit.com/r/interestingasfuck/comments/idbtrg/i_upscaled_and_colorized_the_footage_about_the/)
+I upscaled and colorized the footage about the earliest born person ever (1905) to be caught on film which was posted online yesterday by u/Ainsley-Sorsby
+https://www.reddit.com/r/interestingasfuck/comments/idbtrg/i_upscaled_and_colorized_the_footage_about_the/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[114] of 179 === 2020-08-23 @ 10:44:34 === https://285936586.masto.host/@2877133136/104738290040423747
+11 HOURS Stunning 4K Underwater footage + Music | Nature Relaxation ™ Rare & Colorful Sea Life Video - YouTube  
+[https://www.youtube.com/watch?v=G52dUQLxPzg](https://www.youtube.com/watch?v=G52dUQLxPzg)
+
+[#nature_relaxation](https://285936586.masto.host/tags/nature_relaxation)
+[#harmony](https://285936586.masto.host/tags/harmony)
+[#peace](https://285936586.masto.host/tags/peace)
+[#anxiety_relief](https://285936586.masto.host/tags/anxiety_relief)
+[#stress_relief](https://285936586.masto.host/tags/stress_relief)
+[#natural](https://285936586.masto.host/tags/natural)
+[#hollistic](https://285936586.masto.host/tags/hollistic)
+[#brain_training](https://285936586.masto.host/tags/brain_training)
+[#mental_conditioning](https://285936586.masto.host/tags/mental_conditioning)
+[#healing_nature](https://285936586.masto.host/tags/healing_nature)
+[#meditation_aid](https://285936586.masto.host/tags/meditation_aid)
+[#hi](https://285936586.masto.host/tags/hi)...
+11 HOURS Stunning 4K Underwater footage + Music | Nature Relaxation™ Rare & Colorful Sea Life Video
+https://www.youtube.com/watch?v=G52dUQLxPzg
+{'neg': 0.0, 'neu': 0.799, 'pos': 0.201, 'compound': 0.9107}
+
+[115] of 179 === 2020-10-01 @ 05:11:31 === https://285936586.masto.host/@2877133136/104957810504410554
+Europe 3D Render Topographic Map Color Border by Frank Ramspott
+[https://pixels.com/featured/europe-3d-render-topographic-map-color-border-
+frank-ramspott.html](https://pixels.com/featured/europe-3d-render-topographic-
+map-color-border-frank-ramspott.html)
+Europe 3D Render Topographic Map Color Border by Frank Ramspott
+https://pixels.com/featured/europe-3d-render-topographic-map-color-border-frank-ramspott.html
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[116] of 179 === 2020-10-14 @ 03:56:01 === https://285936586.masto.host/@2877133136/105031123688371236
+Keynote: using color in equation to match keynote color scheme - TeX - LaTeX
+Stack Exchange  
+[https://tex.stackexchange.com/questions/481584/keynote-using-color-in-
+equation-to-match-keynote-color-
+scheme](https://tex.stackexchange.com/questions/481584/keynote-using-color-in-
+equation-to-match-keynote-color-scheme)
+Keynote: using color in equation to match keynote color scheme
+https://tex.stackexchange.com/questions/481584/keynote-using-color-in-equation-to-match-keynote-color-scheme
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[117] of 179 === 2020-12-08 @ 06:34:10 === https://285936586.masto.host/@2877133136/105343172669358310
+The colors of these Macaws in Costa Rica
+[https://www.reddit.com/r/interestingasfuck/comments/k8gbzn/the_colors_of_these_macaws_in_costa_rica/](https://www.reddit.com/r/interestingasfuck/comments/k8gbzn/the_colors_of_these_macaws_in_costa_rica/)
+The colors of these Macaws in Costa Rica
+https://www.reddit.com/r/interestingasfuck/comments/k8gbzn/the_colors_of_these_macaws_in_costa_rica/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[118] of 179 === 2020-12-15 @ 00:03:22 === https://285936586.masto.host/@2877133136/105381272136351061
+Hexpalette - Generate new color palettes
+[https://hexpalette.com/generator](https://hexpalette.com/generator)
+Hexpalette - Generate new color palettes
+https://hexpalette.com/generator
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[119] of 179 === 2020-12-27 @ 23:16:42 === https://285936586.masto.host/@2877133136/105454698683353659
+Skating on clear ice in Colorado
+[https://www.reddit.com/r/Damnthatsinteresting/comments/kkx7i7/skating_on_clear_ice_in_colorado/](https://www.reddit.com/r/Damnthatsinteresting/comments/kkx7i7/skating_on_clear_ice_in_colorado/)
+Skating on clear ice in Colorado
+https://www.reddit.com/r/Damnthatsinteresting/comments/kkx7i7/skating_on_clear_ice_in_colorado/
+{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.6369}
+
+[120] of 179 === 2021-01-14 @ 17:54:50 === https://285936586.masto.host/@2877133136/105555354644912372
+How to Improve OCR on image with text in different colors and fonts?
+[https://stackoverflow.com/questions/51803569/how-to-improve-ocr-on-image-
+with-text-in-different-colors-and-
+fonts](https://stackoverflow.com/questions/51803569/how-to-improve-ocr-on-
+image-with-text-in-different-colors-and-fonts)
+How to Improve OCR on image with text in different colors and fonts?
+https://stackoverflow.com/questions/51803569/how-to-improve-ocr-on-image-with-text-in-different-colors-and-fonts
+{'neg': 0.0, 'neu': 0.825, 'pos': 0.175, 'compound': 0.7319}
+
+[121] of 179 === 2021-01-24 @ 10:27:49 === https://285936586.masto.host/@2877133136/105610220000534739
+The Civil Rights Movement in Color | 20 best free right, history, colorized and black history photos on Unsplash [https://unsplash.com/collections/11987944/the-civil-rights-movement-in-color](https://unsplash.com/collections/11987944/the-civil-rights-movement-in-color)
+The Civil Rights Movement in Color | 20 best free right, history, colorized and black history photos on Unsplash
+https://unsplash.com/collections/11987944/the-civil-rights-movement-in-color
+{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.9432}
+
+[122] of 179 === 2021-01-25 @ 20:06:35 === https://285936586.masto.host/@2877133136/105618158062946553
+I made an in-depth tutorial on Image Colorization using Deep Learning (with
+U-Net and GANs)
+[https://www.reddit.com/r/programming/comments/l4l5kc/i_made_an_indepth_tutorial_on_image_colorization/](https://www.reddit.com/r/programming/comments/l4l5kc/i_made_an_indepth_tutorial_on_image_colorization/)
+I made an in-depth tutorial on Image Colorization using Deep Learning (with U-Net and GANs)
+https://www.reddit.com/r/programming/comments/l4l5kc/i_made_an_indepth_tutorial_on_image_colorization/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[123] of 179 === 2021-01-28 @ 17:11:14 === https://285936586.masto.host/@2877133136/105634455506900755
+"im seeing colors"
+[https://www.reddit.com/r/dankmemes/comments/l6dadk/im_seeing_colors/](https://www.reddit.com/r/dankmemes/comments/l6dadk/im_seeing_colors/)
+"im seeing colors"
+https://www.reddit.com/r/dankmemes/comments/l6dadk/im_seeing_colors/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[124] of 179 === 2021-02-07 @ 16:04:08 === https://285936586.masto.host/@2877133136/105690814784909214
+Someone modded a Game Boy Color to act as a much better Apple TV remote
+[https://www.reddit.com/r/technology/comments/le8po3/someone_modded_a_game_boy_color_to_act_as_a_much/](https://www.reddit.com/r/technology/comments/le8po3/someone_modded_a_game_boy_color_to_act_as_a_much/)
+Someone modded a Game Boy Color to act as a much better Apple TV remote
+https://www.reddit.com/r/technology/comments/le8po3/someone_modded_a_game_boy_color_to_act_as_a_much/
+{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.7003}
+
+[125] of 179 === 2021-03-14 @ 05:57:52 === https://285936586.masto.host/@2877133136/105886611711250959
+Size 27.6"x31.5" Multiple Color Indoor Lazy Lounger Super Soft Adults Kids
+Beanbag Chair Cover Memory Foam Beanbag Chair Cover Furniture Sofa Tatami (Not
+Included Filling) - [http://walmart.com](http://walmart.com)
+[https://www.walmart.com/ip/Size-27-6-x31-5-Multiple-Color-Indoor-Lazy-
+Lounger-Super-Soft-Adults-Kids-Beanbag-Chair-Cover-Memory-Foam-Furniture-Sofa-
+Tatami-Not-Included-
+Filling/797765095](https://www.walmart.com/ip/Size-27-6-x31-5-Multiple-Color-
+Indoor-Lazy-Lounger-Super-Soft-Adults-Kids-Beanbag-Chair-Cover-Memory-Foam-
+Furniture-Sofa-Tatami-Not-Included-Filling/797765095)
+Verify your identity
+http://walmart.com/
+{'neg': 0.06, 'neu': 0.845, 'pos': 0.094, 'compound': 0.34}
+
+[126] of 179 === 2021-03-14 @ 05:58:31 === https://285936586.masto.host/@2877133136/105886614253618606
+Size 39.4" x 47.2"Multiple Color Indoor Lazy Lounger Super Soft Adults Kids
+Beanbag Chair Cover Memory Foam Beanbag Chair Cover Furniture Sofa Tatami (Not
+Included Filling) - [http://walmart.com](http://walmart.com)
+[https://www.walmart.com/ip/Size-39-4-x-47-2-Multiple-Color-Indoor-Lazy-
+Lounger-Super-Soft-Adults-Kids-Beanbag-Chair-Cover-Memory-Foam-Furniture-Sofa-
+Tatami-Not-Included-
+Filling/616058663](https://www.walmart.com/ip/Size-39-4-x-47-2-Multiple-Color-
+Indoor-Lazy-Lounger-Super-Soft-Adults-Kids-Beanbag-Chair-Cover-Memory-Foam-
+Furniture-Sofa-Tatami-Not-Included-Filling/616058663)
+Verify your identity
+http://walmart.com/
+{'neg': 0.059, 'neu': 0.849, 'pos': 0.092, 'compound': 0.34}
+
+[127] of 179 === 2021-04-14 @ 22:57:44 === https://285936586.masto.host/@2877133136/106066153597096732
+[https://www.mysteryranch.com/rip-
+ruck-32-pack?quantity=1&color=Foliage&size=L%2FXL](https://www.mysteryranch.com/rip-
+ruck-32-pack?quantity=1&color=Foliage&size=L%2FXL)
+Rip Ruck 32 Pack | MYSTERY RANCH Backpacks
+https://www.mysteryranch.com/rip-ruck-32-pack?quantity=1&color=Foliage&size=L/XL
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[128] of 179 === 2021-04-18 @ 02:20:28 === https://285936586.masto.host/@2877133136/106083937741433413
+Colorado air raid loudspeaker system hacked, May 2020
+[https://www.reddit.com/r/PublicFreakout/comments/msw5ru/colorado_air_raid_loudspeaker_system_hacked_may/](https://www.reddit.com/r/PublicFreakout/comments/msw5ru/colorado_air_raid_loudspeaker_system_hacked_may/)
+Colorado air raid loudspeaker system hacked, May 2020
+https://www.reddit.com/r/PublicFreakout/comments/msw5ru/colorado_air_raid_loudspeaker_system_hacked_may/
+{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.6597}
+
+[129] of 179 === 2021-05-12 @ 02:05:47 === https://285936586.masto.host/@2877133136/106219775428076646
+@flyosity @nikkiccccc Proof that the spheres are all the same color.
+[https://twitter.com/bob_burrough/status/1142282167705145344/video/1](https://twitter.com/bob_burrough/status/1142282167705145344/video/1)
+Bob! on Twitter
+https://twitter.com/bob_burrough/status/1142282167705145344/video/1
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[130] of 179 === 2021-05-14 @ 03:28:02 === https://285936586.masto.host/@2877133136/106231423438150709
+A new report published in Drug Science, Policy and Law suggests that
+psychedelic drugs may improve symptoms of color blindness. The study discusses
+23 anecdotal reports describing improved color blindness after taking drugs
+like lysergic acid diethylamide (LSD) and psilocybin (magic mushrooms).
+[https://www.reddit.com/r/science/comments/nbvk6o/a_new_report_published_in_drug_science_policy_and/](https://www.reddit.com/r/science/comments/nbvk6o/a_new_report_published_in_drug_science_policy_and/)
+A new report published in Drug Science, Policy and Law suggests that psychedelic drugs may improve symptoms of color blindness. The study discusses 23 anecdotal reports describing improved color blindness after taking drugs like lysergic acid diethylamide (LSD) and psilocybin (magic mushrooms).
+https://www.reddit.com/r/science/comments/nbvk6o/a_new_report_published_in_drug_science_policy_and/
+{'neg': 0.0, 'neu': 0.825, 'pos': 0.175, 'compound': 0.9432}
+
+[131] of 179 === 2021-05-23 @ 17:57:52 === https://285936586.masto.host/@2877133136/106285804559005136
+Lumiere Brothers Snowball Fight 1897 in Colorized HD
+[https://www.youtube.com/watch?v=FBWZFUDb_Qs](https://www.youtube.com/watch?v=FBWZFUDb_Qs)
+Lumiere Brothers Snowball Fight 1897 in Colorized HD
+https://www.youtube.com/watch?v=FBWZFUDb_Qs
+{'neg': 0.264, 'neu': 0.736, 'pos': 0.0, 'compound': -0.6946}
+
+[132] of 179 === 2021-05-25 @ 22:16:52 === https://285936586.masto.host/@2877133136/106298147606751949
+How software gets color wrong
+[https://www.reddit.com/r/programming/comments/nkl18f/how_software_gets_color_wrong/](https://www.reddit.com/r/programming/comments/nkl18f/how_software_gets_color_wrong/)
+How software gets color wrong
+https://www.reddit.com/r/programming/comments/nkl18f/how_software_gets_color_wrong/
+{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.7351}
+
+[133] of 179 === 2021-05-29 @ 05:30:52 === https://285936586.masto.host/@2877133136/106316841142113075
+5.61ct Bicolor Congo Tourmaline stone has been cut in a way to appear
+pixelated
+[https://www.reddit.com/r/interestingasfuck/comments/nmyy1s/561ct_bicolor_congo_tourmaline_stone_has_been_cut/](https://www.reddit.com/r/interestingasfuck/comments/nmyy1s/561ct_bicolor_congo_tourmaline_stone_has_been_cut/)
+5.61ct Bicolor Congo Tourmaline stone has been cut in a way to appear pixelated
+https://www.reddit.com/r/interestingasfuck/comments/nmyy1s/561ct_bicolor_congo_tourmaline_stone_has_been_cut/
+{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.4939}
+
+[134] of 179 === 2021-06-15 @ 22:26:17 === https://285936586.masto.host/@2877133136/106417093157220764
+This is your brain, in glorious color
+[https://www.nbcnews.com/science/science-news/brain-glorious-color-
+rcna1192](https://www.nbcnews.com/science/science-news/brain-glorious-color-
+rcna1192)
+This is your brain, in glorious color 
+https://www.nbcnews.com/science/science-news/brain-glorious-color-rcna1192
+{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.8555}
+
+[135] of 179 === 2021-07-02 @ 18:56:14 === https://285936586.masto.host/@2877133136/106512526474945447
+the best color select in existance  
+[https://invent.kde.org/graphics/krita/-/tree/master/plugins/dockers/advancedcolorselector](https://invent.kde.org/graphics/krita/-/tree/master/plugins/dockers/advancedcolorselector)
+
+if it had options for triadic , tetradic , analagous , split complement ,
+complementary , etc , I think it would be perfect
+plugins/dockers/advancedcolorselector · master · Graphics / Krita
+https://invent.kde.org/graphics/krita/-/tree/master/plugins/dockers/advancedcolorselector
+{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.836}
+
+[136] of 179 === 2021-07-06 @ 03:31:39 === https://285936586.masto.host/@2877133136/106531540150611637
+[#ColorScheme](https://285936586.masto.host/tags/ColorScheme)  
+[https://coolors.co/2a557d-9b2d75-eaddda-b78d55-90cfd8-42c6ac-d384ad-b4caca-
+efc886](https://coolors.co/2a557d-9b2d75-eaddda-b78d55-90cfd8-42c6ac-d384ad-b4caca-
+efc886)  
+[https://upload.wikimedia.org/wikipedia/commons/6/69/Renal_corpuscle-
+en.svg](https://upload.wikimedia.org/wikipedia/commons/6/69/Renal_corpuscle-
+en.svg)
+Coolors.co
+https://coolors.co/2a557d-9b2d75-eaddda-b78d55-90cfd8-42c6ac-d384ad-b4caca-efc886
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[137] of 179 === 2021-07-11 @ 05:48:47 === https://285936586.masto.host/@2877133136/106560390907323655
+Converting an RGB color image to grayscale was a fun rabbit hole. My first
+thought was to take the average of the three channels: Y = .333 R + .333 G +
+.333 B It turns out that a much better answer is: Y = .299 R + .587 G + .114 B
+Here's why:
+[https://e2eml.school/convert_rgb_to_grayscale.html](https://e2eml.school/convert_rgb_to_grayscale.html)
+[https://twitter.com/_brohrer_/status/1413834607863140357/photo/1](https://twitter.com/_brohrer_/status/1413834607863140357/photo/1)
+{'neg': 0.0, 'neu': 0.899, 'pos': 0.101, 'compound': 0.7351}
+
+[138] of 179 === 2021-08-06 @ 08:12:34 === https://285936586.masto.host/@2877133136/106708176344053726
+Here is an example that took
+[#alphafold](https://285936586.masto.host/tags/alphafold) ~12 recycles to
+fold! (denovo designed protein, single sequence input). Colored by predicted
+LDDT.
+[https://twitter.com/sokrypton/status/1422871638127923211](https://twitter.com/sokrypton/status/1422871638127923211)
+[https://twitter.com/sokrypton/status/1422942404588486657/video/1](https://twitter.com/sokrypton/status/1422942404588486657/video/1)
+Sergey Ovchinnikov on Twitter
+https://twitter.com/sokrypton/status/1422871638127923211
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[139] of 179 === 2021-08-06 @ 08:12:38 === https://285936586.masto.host/@2877133136/106708176638891959
+Here is an example that took
+[#alphafold](https://285936586.masto.host/tags/alphafold) ~12 recycles to
+fold! (denovo designed protein, single sequence input). Colored by predicted
+LDDT.
+[https://twitter.com/sokrypton/status/1422871638127923211](https://twitter.com/sokrypton/status/1422871638127923211)
+[https://twitter.com/sokrypton/status/1422942404588486657/video/1](https://twitter.com/sokrypton/status/1422942404588486657/video/1)
+Sergey Ovchinnikov on Twitter
+https://twitter.com/sokrypton/status/1422871638127923211
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[140] of 179 === 2021-08-08 @ 07:57:45 === https://285936586.masto.host/@2877133136/106719442758687452
+"Finger Lights". Demo + Source:
+[https://openprocessing.org/sketch/1242147](https://openprocessing.org/sketch/1242147)
+~90 commented lines includes: - A Handsfree.js powered "Intro / Start Screen"
+template - Handsfree.js "Pinchers Plugin" for easy color management
+[#HandsfreeJS](https://285936586.masto.host/tags/HandsfreeJS)
+[#DailyCoding](https://285936586.masto.host/tags/DailyCoding)
+[#CreativeCoding](https://285936586.masto.host/tags/CreativeCoding)
+[#p5js](https://285936586.masto.host/tags/p5js)
+[#MadeWithTFJS](https://285936586.masto.host/tags/MadeWithTFJS)
+[#HandTracking](https://285936586.masto.host/tags/HandTracking)
+[https://twitter.com/HeyOzRamos/status/1424156118800998402/video/1](https://twitter.com/HeyOzRamos/status/1424156118800998402/video/1)
+Finger Light Magic - OpenProcessing
+https://openprocessing.org/sketch/1242147
+{'neg': 0.0, 'neu': 0.931, 'pos': 0.069, 'compound': 0.4404}
+
+[141] of 179 === 2021-08-19 @ 13:54:22 === https://285936586.masto.host/@2877133136/106783130399558956
+Jeff Bezos catches an employee taking a bathroom break (2016, colorized)
+[https://www.reddit.com/r/fakehistoryporn/comments/p745w1/jeff_bezos_catches_an_employee_taking_a_bathroom/](https://www.reddit.com/r/fakehistoryporn/comments/p745w1/jeff_bezos_catches_an_employee_taking_a_bathroom/)
+Jeff Bezos catches an employee taking a bathroom break (2016, colorized)
+https://www.reddit.com/r/fakehistoryporn/comments/p745w1/jeff_bezos_catches_an_employee_taking_a_bathroom/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[142] of 179 === 2021-08-21 @ 12:45:35 === https://285936586.masto.host/@2877133136/106794184567623950
+48 different colors of the moon, all photographed in a time span of 10 years
+[https://www.reddit.com/r/spaceporn/comments/p84a7k/48_different_colors_of_the_moon_all_photographed/](https://www.reddit.com/r/spaceporn/comments/p84a7k/48_different_colors_of_the_moon_all_photographed/)
+48 different colors of the moon, all photographed in a time span of 10 years
+https://www.reddit.com/r/spaceporn/comments/p84a7k/48_different_colors_of_the_moon_all_photographed/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[143] of 179 === 2021-08-25 @ 02:50:30 === https://285936586.masto.host/@2877133136/106814493825204968
+a neural network tries to color in the style of various famous artists- each
+coloring starts off almost-grayscale, and is iteratively updated to better
+match the artist style, according to the CLIP network
+[https://twitter.com/matthen2/status/1429514707820494851/video/1](https://twitter.com/matthen2/status/1429514707820494851/video/1)
+Matt Henderson on Twitter
+https://twitter.com/matthen2/status/1429514707820494851/video/1
+{'neg': 0.0, 'neu': 0.929, 'pos': 0.071, 'compound': 0.4404}
+
+[144] of 179 === 2021-08-30 @ 03:46:15 === https://285936586.masto.host/@2877133136/106843024642436613
+1/ AIRBORNE TRANSMISSION OF RESPIRATORY VIRUSES A new peer-reviewed paper in
+@ScienceMagazine, reviewing the scientific literature on this topic. We
+conclude it is important not just for COVID-19, but also for other respiratory
+diseases such as the flu
+[https://science.sciencemag.org/content/373/6558/eabd9149/tab-article-
+info](https://science.sciencemag.org/content/373/6558/eabd9149/tab-article-
+info)
+[https://twitter.com/jljcolorado/status/1430967286244970502](https://twitter.com/jljcolorado/status/1430967286244970502)
+Airborne transmission of respiratory viruses
+https://science.sciencemag.org/content/373/6558/eabd9149/tab-article-info
+{'neg': 0.067, 'neu': 0.906, 'pos': 0.028, 'compound': -0.4588}
+
+[145] of 179 === 2021-10-09 @ 06:27:54 === https://285936586.masto.host/@2877133136/107070152652875532
+Superfast portscanner time seq 65535 | parallel -k --joblog portscan -j9 --pipe --cat -j200% -n9000 --tagstring '\033[30;3{=$_=++$::color%8=}m' 'nc -vz localhost $(head -n1 {})-$(tail -n1 {})' [https://www.commandlinefu.com/commands/view/25535/superfast-portscanner](https://www.commandlinefu.com/commands/view/25535/superfast-portscanner) [#Offsec](https://285936586.masto.host/tags/Offsec) [#Recon](https://285936586.masto.host/tags/Recon) [https://twitter.com/noexceptcpp/status/1437908992290865155](https://twitter.com/noexceptcpp/status/1437908992290865155)
+Superfast portscanner Using head, seq, tail, time
+https://www.commandlinefu.com/commands/view/25535/superfast-portscanner
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[146] of 179 === 2021-10-24 @ 05:00:52 === https://285936586.masto.host/@2877133136/107154745078211302
+Virtual Shadowing - University of Colorado Section of Wilderness &
+Environmental Medicine [https://www.coloradowm.org/courses/pre-med/virtual-
+shadowing-nano-course-emergency-
+medicine/](https://www.coloradowm.org/courses/pre-med/virtual-shadowing-nano-
+course-emergency-medicine/)
+Virtual Shadowing - University of Colorado Section of Wilderness & Environmental Medicine
+https://www.coloradowm.org/courses/pre-med/virtual-shadowing-nano-course-emergency-medicine/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[147] of 179 === 2021-11-07 @ 06:00:37 === https://285936586.masto.host/@2877133136/107234252386628943
+Face Generator for creating
+[#sockpuppets](https://285936586.masto.host/tags/sockpuppets) Customize
+gender, age, head position, emotions, hair and skin color, makeup and glasses.
+[https://generated.photos/face-generator/](https://generated.photos/face-
+generator/) [#AI](https://285936586.masto.host/tags/AI)
+[#socmint](https://285936586.masto.host/tags/socmint)
+[#osint](https://285936586.masto.host/tags/osint)
+[https://twitter.com/cyb_detective/status/1455470118411046915/photo/1](https://twitter.com/cyb_detective/status/1455470118411046915/photo/1)
+Face Generator – Generate Faces Online Using AI
+https://generated.photos/face-generator
+{'neg': 0.0, 'neu': 0.936, 'pos': 0.064, 'compound': 0.296}
+
+[148] of 179 === 2021-11-16 @ 07:14:20 === https://285936586.masto.host/@2877133136/107285503080446375
+It was only 128 years ago that Wilhelm Wien discovered that the color of a
+star is related to its temperature.
+[https://twitter.com/fermatslibrary/status/1460247444625797123/photo/1](https://twitter.com/fermatslibrary/status/1460247444625797123/photo/1)
+Fermat's Library on Twitter
+https://twitter.com/fermatslibrary/status/1460247444625797123
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[149] of 179 === 2022-05-09 @ 14:40:18 === https://285936586.masto.host/@2877133136/108272498696026870
+I made a tutorial about color palettes 🌻
+[#pixelart](https://285936586.masto.host/tags/pixelart)
+[https://twitter.com/mysunnyrose/status/1521918997096243201/photo/1](https://twitter.com/mysunnyrose/status/1521918997096243201/photo/1)
+rosi ☀️ COMMISSIONS: CLOSED on Twitter
+https://twitter.com/mysunnyrose/status/1521918997096243201
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[150] of 179 === 2022-05-09 @ 19:43:00 === https://285936586.masto.host/@2877133136/108273688927234937
+getting closer to calculating func ( aborbed_wavelength ) { return
+perceived_wavelength }  
+[#color](https://285936586.masto.host/tags/color)  
+[https://en.wikipedia.org/wiki/Dominant_wavelength](https://en.wikipedia.org/wiki/Dominant_wavelength)  
+[http://hyperphysics.phy-
+astr.gsu.edu/hbase/vision/ciecal.html](http://hyperphysics.phy-
+astr.gsu.edu/hbase/vision/ciecal.html)  
+[https://github.com/colour-
+science/colour/blob/ffc873c040dde0f588d2695dc9848d5644bdb639/colour/colorimetry/dominant.py#L249](https://github.com/colour-
+science/colour/blob/ffc873c040dde0f588d2695dc9848d5644bdb639/colour/colorimetry/dominant.py#L249)=
+Dominant wavelength - Wikipedia
+https://en.wikipedia.org/wiki/Dominant_wavelength
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[151] of 179 === 2022-05-27 @ 14:11:21 === https://285936586.masto.host/@2877133136/108374306441121889
+@explorehoodcanal shared a photo on Instagram: “Waterfall Wednesday takes you
+to one of our favorite, super accessible, Hood Canal falls. We love the pretty
+drive up the Forestry Road to…” • May 25, 2022 at 2:51pm UTC
+[https://www.instagram.com/p/Cd_ColOrcIB/](https://www.instagram.com/p/Cd_ColOrcIB/)
+{'neg': 0.0, 'neu': 0.664, 'pos': 0.336, 'compound': 0.9493}
+
+[152] of 179 === 2022-06-18 @ 05:50:58 === https://285936586.masto.host/@2877133136/108496909671022291
+r/science - A new VR study tested the effects of vegetation and colorful
+patterns in an urban environment. Employing virtual reality, the study found
+that green vegetation caused volunteers to walk more slowly, while also
+increasing their heart rate, indicating a pleasurable experience.
+[https://www.reddit.com/r/science/comments/vepbin/a_new_vr_study_tested_the_effects_of_vegetation/](https://www.reddit.com/r/science/comments/vepbin/a_new_vr_study_tested_the_effects_of_vegetation/)
+A new VR study tested the effects of vegetation and colorful patterns in an urban environment. Employing virtual reality, the study found that green vegetation caused volunteers to walk more slowly, while also increasing their heart rate, indicating a pleasurable experience.
+https://www.reddit.com/r/science/comments/vepbin/a_new_vr_study_tested_the_effects_of_vegetation/
+{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.9451}
+
+[153] of 179 === 2022-07-14 @ 18:56:05 === https://285936586.masto.host/@2877133136/108647216925320856
+Stormy Weather in color - The Nicholas Brothers and Cab Calloway | Colorized with DeOldify [https://www.youtube.com/watch?v=IoMbeDhG9fU](https://www.youtube.com/watch?v=IoMbeDhG9fU)
+Stormy Weather in color - The Nicholas Brothers and Cab Calloway | Colorized with DeOldify
+https://www.youtube.com/watch?v=IoMbeDhG9fU
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[154] of 179 === 2022-07-19 @ 20:02:16 === https://285936586.masto.host/@2877133136/108675788731083107
+I made a tutorial about color palettes 🌻
+[#pixelart](https://285936586.masto.host/tags/pixelart)
+[https://twitter.com/mysunnyrose/status/1521918997096243201/photo/1](https://twitter.com/mysunnyrose/status/1521918997096243201/photo/1)
+rosi ☀️ COMMISSIONS: CLOSED on Twitter
+https://twitter.com/mysunnyrose/status/1521918997096243201
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[155] of 179 === 2022-07-20 @ 19:31:33 === https://285936586.masto.host/@2877133136/108681330241716845
+Homage to the Pixel: a generative study of computational color perception.
+Often I manipulate shapes and colors using machine perception, but here only
+colors are optimised on six fixed overlapping squares. Highlights below or
+visit complete series here [https://drib.net/homage](https://drib.net/homage)
+[https://twitter.com/dribnet/status/1528001988255920128/photo/1](https://twitter.com/dribnet/status/1528001988255920128/photo/1)
+Homage to the Pixel — dribnet
+https://drib.net/homage
+{'neg': 0.0, 'neu': 0.928, 'pos': 0.072, 'compound': 0.5499}
+
+[156] of 179 === 2022-10-02 @ 11:10:56 === https://285936586.masto.host/@2877133136/109098372751004929
+Bash one-liner to produce a list of HEX color codes that read like English
+words
+[https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb](https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb)  
+[https://twitter.com/i/web/status/1576301045013176322](https://twitter.com/i/web/status/1576301045013176322)
+A Bash one-liner to produce a list of HEX color codes that read like (supposedly) valid English words
+https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb
+{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.6124}
+
+[157] of 179 === 2022-10-29 @ 11:06:13 === https://285936586.masto.host/@2877133136/109251236563479313
+Colorful Autumn in New York
+[https://old.reddit.com/r/BeAmazed/comments/yg4z6e/colorful_autumn_in_new_york/](https://old.reddit.com/r/BeAmazed/comments/yg4z6e/colorful_autumn_in_new_york/)
+Colorful Autumn in New York
+https://old.reddit.com/r/BeAmazed/comments/yg4z6e/colorful_autumn_in_new_york/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[158] of 179 === 2022-11-28 @ 23:20:45 === https://285936586.masto.host/@2877133136/109423994189191184
+Luke Kelly on Instagram: "Some of the most spectacular alpine lakes that I’ve
+seen in Canada were in this park in British Columbia. Those deep turquoise
+colors that we saw when the morning light hit the water were surreal. I chose
+a photo from this morning hiking in Joffre Lakes as the third photo for my
+2023 calendar." [https://www.instagram.com/reel/ClG_l-
+dpVfj/](https://www.instagram.com/reel/ClG_l-dpVfj/)
+Luke Kelly on Instagram: "Some of the most spectacular alpine lakes that I’ve seen in Canada were in this park in British Columbia.
+
+Those deep turquoise colors that we saw when the morning light hit the water were surreal.
+
+I chose a photo from this morning hiking in Joffre Lakes as the third photo for my 2023 calendar."
+https://www.instagram.com/p/ClG_l-dpVfj/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[159] of 179 === 2022-11-30 @ 19:54:17 === https://285936586.masto.host/@2877133136/109434506929894370
+Color out of Place on Instagram: "moon rise
+[#coloroutofplace](https://285936586.masto.host/tags/coloroutofplace)
+[#digitalart](https://285936586.masto.host/tags/digitalart)
+[#ai](https://285936586.masto.host/tags/ai)
+[#art](https://285936586.masto.host/tags/art)
+[#abstractart](https://285936586.masto.host/tags/abstractart)
+[#aiart](https://285936586.masto.host/tags/aiart)
+[#abstract](https://285936586.masto.host/tags/abstract)
+[#inspiration](https://285936586.masto.host/tags/inspiration)
+[#artgallery](https://285936586.masto.host/tags/artgallery)
+[#artcollector](https://285936586.masto.host/tags/artcollector)
+[#surrealart](https://285936586.masto.host/tags/surrealart)
+[#conceptart](https://285936586.masto.host/tags/conceptart)
+[#picoftheday](https://285936586.masto.host/tags/picoftheday)
+[#forest](https://285936586.masto.host/tags/forest)
+[#trees](https://285936586.masto.host/tags/trees)
+[#canada](https://285936586.masto.host/tags/canada)
+[#vancouver](https://285936586.masto.host/tags/vancouver)"
+[https://www.instagram.com/p/ClWeoBQJimj/](https://www.instagram.com/p/ClWeoBQJimj/)
+Color out of Place on Instagram: "moon rise
+
+#coloroutofplace #digitalart #ai #art #abstractart #aiart #abstract #inspiration #artgallery #artcollector #surrealart #conceptart #picoftheday #forest #trees #canada #vancouver"
+https://www.instagram.com/p/ClWeoBQJimj/
+{'neg': 0.0, 'neu': 0.938, 'pos': 0.062, 'compound': 0.5267}
+
+[160] of 179 === 2023-03-16 @ 10:50:51 === https://285936586.masto.host/@2877133136/110032574957095769
+The Buff-Tip Moth: the resting posture, shape, and color/pattern of the buff-
+tip moth allows it to mimic a broken birch twig; the moth's buff-colored head
+and the patches on its hindwings even resemble freshly-snapped wood
+[https://old.reddit.com/r/Awwducational/comments/11s3ggt/the_bufftip_moth_the_resting_posture_shape_and/](https://old.reddit.com/r/Awwducational/comments/11s3ggt/the_bufftip_moth_the_resting_posture_shape_and/)
+The Buff-Tip Moth: the resting posture, shape, and color/pattern of the buff-tip moth allows it to mimic a broken birch twig; the moth's buff-colored head and the patches on its hindwings even resemble freshly-snapped wood
+https://old.reddit.com/r/Awwducational/comments/11s3ggt/the_bufftip_moth_the_resting_posture_shape_and/
+{'neg': 0.08, 'neu': 0.92, 'pos': 0.0, 'compound': -0.7351}
+
+[161] of 179 === 2023-03-18 @ 17:13:14 === https://285936586.masto.host/@2877133136/110045403158473211
+Here we see the "GBC102-M", aka a toy Game Boy Color from a Burger King kids'
+meal made into a working Game Boy Advance (via
+[https://www.tiktok.com/@haihaisb/video/6997387869245426971](https://www.tiktok.com/@haihaisb/video/6997387869245426971))
+[https://twitter.com/AttractMode/status/1636409293288378368/video/1](https://twitter.com/AttractMode/status/1636409293288378368/video/1)
+Haihaisb on TikTok
+https://www.tiktok.com/@haihaisb/video/6997387869245426971
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[162] of 179 === 2023-03-29 @ 12:02:12 === https://285936586.masto.host/@2877133136/110106465591369810
+Physicists invented the "lightest paint in the world." 1.3 kilograms of it
+could color an entire a Boeing 747, compared to 500 kg of regular paint. The
+weight savings would cut a huge amount of fuel and money
+[https://old.reddit.com/r/science/comments/1258iqw/physicists_invented_the_lightest_paint_in_the/](https://old.reddit.com/r/science/comments/1258iqw/physicists_invented_the_lightest_paint_in_the/)
+Physicists invented the "lightest paint in the world." 1.3 kilograms of it could color an entire a Boeing 747, compared to 500 kg of regular paint. The weight savings would cut a huge amount of fuel and money
+https://old.reddit.com/r/science/comments/1258iqw/physicists_invented_the_lightest_paint_in_the/
+{'neg': 0.051, 'neu': 0.894, 'pos': 0.056, 'compound': 0.1027}
+
+[163] of 179 === 2023-04-16 @ 13:22:13 === https://285936586.masto.host/@2877133136/110208701774407089
+Marc 🇨🇭 on Instagram: "Beautiful spots to visit in Switzerland 🇨🇭✨ — — Follow
+@swissglory_ for more travel tipps 👈 Follow @swissglory_ for more travel tipps
+👈 — — 🚩️Location(s): 1. Gorges l‘Areuse 2. Filzbach 3. Oeschinensee — — 📸 by
+@swissaround — — [#switzerland](https://285936586.masto.host/tags/switzerland)
+[#switzerlandcolors](https://285936586.masto.host/tags/switzerlandcolors)
+[#travelswitzerland](https://285936586.masto.host/tags/travelswitzerland)
+[#switzerland_hotels](https://285936586.masto.host/tags/switzerland_hotels)
+[#baselswitzerland](https://285936586.masto.host/tags/baselswitzerland)
+[#loves_switzerland](https://285936586.masto.host/tags/loves_switzerland)
+[#loveswitzerland](https://285936586.masto.host/tags/loveswitzerland)"
+[https://www.instagram.com/p/CqX6w2OMMcO/](https://www.instagram.com/p/CqX6w2OMMcO/)
+Marc 🇨🇭 on Instagram: "Beautiful spots to visit in Switzerland 🇨🇭✨
+—
+—
+Follow @swissglory_ for more travel tipps 👈
+Follow @swissglory_ for more travel tipps 👈
+—
+—
+🚩️Location(s):
+1. Gorges l‘Areuse
+2. Filzbach
+3. Oeschinensee 
+—
+—
+📸 by @swissaround 
+—
+—
+#switzerland_destinations #discoverswitzerland #thebeautifulswitzerland #switzerlandtrip #switzerlandtourism #switzerlandtattoo #genevaswitzerland #bestofswitzerland #switzerland_bestpix #switzerland_vacations #unlimitedswitzerland #switzerlandtravel #interlakenswitzerland #switzerlandvacations #switzerlandcolors #travelswitzerland #switzerland_hotels #baselswitzerland #loves_switzerland #loveswitzerland"
+https://www.instagram.com/p/CqX6w2OMMcO/
+{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.9081}
+
+[164] of 179 === 2023-04-17 @ 16:18:03 === https://285936586.masto.host/@2877133136/110215055530016509
+A Journey through Color Space with FFmpeg
+[https://old.reddit.com/r/programming/comments/12ov8dw/a_journey_through_color_space_with_ffmpeg/](https://old.reddit.com/r/programming/comments/12ov8dw/a_journey_through_color_space_with_ffmpeg/)
+A Journey through Color Space with FFmpeg
+https://old.reddit.com/r/programming/comments/12ov8dw/a_journey_through_color_space_with_ffmpeg/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[165] of 179 === 2023-04-21 @ 22:42:11 === https://285936586.masto.host/@2877133136/110239215239885454
+Josh Hiking+Overland+Travel on Instagram: "I was blown away by the response I
+got to my last video showing my third favorite drive in Washington state. So I
+decided to post my second favorite drive in the state. This is the drive on
+Highway 20 heading west approaching Liberty Bell, it’s especially beautiful in
+the fall with the changing color. If you’re interested in a fun weekend
+[#travel](https://285936586.masto.host/tags/travel)
+[#adventure](https://285936586.masto.host/tags/adventure)
+[#roadtrip](https://285936586.masto.host/tags/roadtrip)
+[#northcascades](https://285936586.masto.host/tags/northcascades)
+[#nationalpark](https://285936586.masto.host/tags/nationalpark)"
+[https://www.instagram.com/reel/CoGpvRbj5kM/](https://www.instagram.com/reel/CoGpvRbj5kM/)
+Josh  Hiking+Overland+Travel on Instagram: "I was blown away by the response I got to my last video showing my third favorite drive in Washington state. So I decided to post my second favorite drive in the state. This is the drive on Highway 20 heading west approaching Liberty Bell, it’s especially beautiful in the fall with the changing color. If you’re interested in a fun weekend trip, enjoying views like this, check out my blog for more information.
+.
+.
+#washington #washingtonstate #pnw #wild #travel #adventure #roadtrip #northcascades #nationalpark"
+https://www.instagram.com/p/CoGpvRbj5kM/
+{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.9929}
+
+[166] of 179 === 2023-06-06 @ 02:06:16 === https://285936586.masto.host/@2877133136/110494821653187745
+GOES-East CONUS - GeoColor - NOAA / NESDIS / STAR  
+[https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&band=GEOCOLOR&length=240&dim=1](https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&band=GEOCOLOR&length=240&dim=1)
+GOES-East CONUS - GeoColor - NOAA / NESDIS / STAR
+https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&band=GEOCOLOR&length=240&dim=1
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[167] of 179 === 2023-06-28 @ 13:45:57 === https://285936586.masto.host/@2877133136/110622143792186018
+🔥 The K-Pg boundary -- Extinction event of the dinosaurs. White layer is
+"ejecta" from the impact. (Southern Colorado). Above this, non-avian dinosaurs
+are gone. 66 million years ago
+[https://old.reddit.com/r/NatureIsFuckingLit/comments/14kg3t1/the_kpg_boundary_extinction_event_of_the/](https://old.reddit.com/r/NatureIsFuckingLit/comments/14kg3t1/the_kpg_boundary_extinction_event_of_the/)
+🔥 The K-Pg boundary -- Extinction event of the dinosaurs. White layer is "ejecta" from the impact. (Southern Colorado). Above this, non-avian dinosaurs are gone. 66 million years ago
+https://old.reddit.com/r/NatureIsFuckingLit/comments/14kg3t1/the_kpg_boundary_extinction_event_of_the/
+{'neg': 0.076, 'neu': 0.924, 'pos': 0.0, 'compound': -0.5859}
+
+[168] of 179 === 2023-08-12 @ 01:38:31 === https://285936586.masto.host/@2877133136/110874087349412648
+Australian researchers have engineered bacteria that can be used to detect
+bowel cancer faster and replace existing at-home stool tests. The bacteria
+successfully detected colorectal tumors in mice, and could be used to screen
+for hard-to-detect cancers like pancreatic cancer in future.
+[https://www.science.org/doi/10.1126/science.adf3974](https://www.science.org/doi/10.1126/science.adf3974)
+{'neg': 0.164, 'neu': 0.729, 'pos': 0.107, 'compound': -0.6249}
+
+[169] of 179 === 2023-09-29 @ 12:11:50 === https://285936586.masto.host/@2877133136/111148368554672712
+Color Pattern [https://xkcd.com/1814/](https://xkcd.com/1814/)
+Color Pattern
+https://xkcd.com/1814/
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[170] of 179 === 2023-10-03 @ 01:15:48 === https://285936586.masto.host/@2877133136/111168438187633136
+Mixing blue, yellow, red and white to create 15 new colors
+[https://www.reddit.com/r/oddlysatisfying/comments/16xze5l/mixing_blue_yellow_red_and_white_to_create_15_new/](https://www.reddit.com/r/oddlysatisfying/comments/16xze5l/mixing_blue_yellow_red_and_white_to_create_15_new/)
+Mixing blue, yellow, red and white to create 15 new colors
+https://www.reddit.com/r/oddlysatisfying/comments/16xze5l/mixing_blue_yellow_red_and_white_to_create_15_new/
+{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.4939}
+
+[171] of 179 === 2023-10-19 @ 04:46:44 === https://285936586.masto.host/@2877133136/111259864542966785
+355-1330417-6253865 [https://www.amazon.co.jp/-/en/Fujite-Fingers-Assorted-
+Heathered-Tri-
+Color/dp/B011I885MC/ref=m_pd_aw_sbs_sccl_2/355-1330417-6253865?pd_rd_w=OjKo4&content-
+id=amzn1.sym.8544f9a4-ebad-4748-94c2-c2e6414950f1&pf_rd_p=8544f9a4-ebad-4748-94c2-c2e6414950f1&pf_rd_r=8DMAJTQVTAKGXEK44KBA&pd_rd_wg=0PY32&pd_rd_r=039c88f1-1625-4719-804d-6f610d228a69&pd_rd_i=B011I885MC&psc=1](https://www.amazon.co.jp/-/en/Fujite-
+Fingers-Assorted-Heathered-Tri-
+Color/dp/B011I885MC/ref=m_pd_aw_sbs_sccl_2/355-1330417-6253865?pd_rd_w=OjKo4&content-
+id=amzn1.sym.8544f9a4-ebad-4748-94c2-c2e6414950f1&pf_rd_p=8544f9a4-ebad-4748-94c2-c2e6414950f1&pf_rd_r=8DMAJTQVTAKGXEK44KBA&pd_rd_wg=0PY32&pd_rd_r=039c88f1-1625-4719-804d-6f610d228a69&pd_rd_i=B011I885MC&psc=1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[172] of 179 === 2023-11-21 @ 19:58:12 === https://285936586.masto.host/@2877133136/111450304858082021
+Victoria on Instagram: "📍Colorado . . .
+[#telluride](https://285936586.masto.host/tags/telluride)
+[#telluridecolorado](https://285936586.masto.host/tags/telluridecolorado)
+[#colorado](https://285936586.masto.host/tags/colorado)
+[#explore](https://285936586.masto.host/tags/explore)
+[#hiking](https://285936586.masto.host/tags/hiking)
+[#outdoors](https://285936586.masto.host/tags/outdoors)
+[#falls](https://285936586.masto.host/tags/falls)
+[#coloradolife](https://285936586.masto.host/tags/coloradolife)"
+[https://www.instagram.com/reel/Cwlw8y-sCqb/](https://www.instagram.com/reel/Cwlw8y-sCqb/)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[173] of 179 === 2023-12-16 @ 12:09:31 === https://285936586.masto.host/@2877133136/111590019668959855
+Sentinel-hub EO-Browser3 [https://apps.sentinel-hub.com/eo-
+browser/?zoom=16&lat=31.58552&lng=34.48849&themeId=DEFAULT-
+THEME&visualizationUrl=https://services.sentinel-
+hub.com/ogc/wms/42924c6c-257a-4d04-9b8e-36387513a99c&datasetId=S2L1C&fromTime=2023-12-11T00:00:00.000Z&toTime=2023-12-11T23:59:59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22](https://apps.sentinel-
+hub.com/eo-browser/?zoom=16&lat=31.58552&lng=34.48849&themeId=DEFAULT-
+THEME&visualizationUrl=https://services.sentinel-
+hub.com/ogc/wms/42924c6c-257a-4d04-9b8e-36387513a99c&datasetId=S2L1C&fromTime=2023-12-11T00:00:00.000Z&toTime=2023-12-11T23:59:59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22)
+Sentinel-hub EO-Browser3
+https://apps.sentinel-hub.com/eo-browser/?zoom=16&lat=31.58552&lng=34.48849&themeId=DEFAULT-THEME&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/42924c6c-257a-4d04-9b8e-36387513a99c&datasetId=S2L1C&fromTime=2023-12-11T00:00:00.000Z&toTime=2023-12-11T23:59:59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[174] of 179 === 2024-01-04 @ 19:00:30 === https://285936586.masto.host/@2877133136/111699219635626077
+The Colorado Center for Personalized Medicine hits major milestone of
+returning genetic results to over 30,000 patients and leads in global research
+efforts, highlighted in the American Journal of Human Genetics
+[https://www.reddit.com/r/science/comments/18yhw9j/the_colorado_center_for_personalized_medicine/](https://www.reddit.com/r/science/comments/18yhw9j/the_colorado_center_for_personalized_medicine/)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[175] of 179 === 2024-01-08 @ 02:36:45 === https://285936586.masto.host/@2877133136/111718000560736010
+LOCALE on Instagram: "S O /// grand. The Ahwahnee Grand Hotel in @yosemitenps
+is perfect in November. Beautiful fall colors, waterfalls and toddy’s. .
+[#yosemitenationalpark](https://285936586.masto.host/tags/yosemitenationalpark)
+[#ahwahneehotel](https://285936586.masto.host/tags/ahwahneehotel)
+[#localemagazine](https://285936586.masto.host/tags/localemagazine)"
+[https://www.instagram.com/reel/CzdBR7DruLo/](https://www.instagram.com/reel/CzdBR7DruLo/)
+{'neg': 0.0, 'neu': 0.638, 'pos': 0.362, 'compound': 0.9274}
+
+[176] of 179 === 2024-02-05 @ 21:17:37 === https://285936586.masto.host/@2877133136/111880952699888445
+Shop Colorado Craft Beef [https://coloradocraftbeef.com/pages/shop-colorado-
+craft-beef](https://coloradocraftbeef.com/pages/shop-colorado-craft-beef)
+Shop Colorado Craft Beef
+https://coloradocraftbeef.com/pages/shop-colorado-craft-beef
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+[177] of 179 === 2024-02-21 @ 13:30:51 === https://285936586.masto.host/@2877133136/111969714298370363
+Researchers at the University of Colorado Anschutz Medical Campus have found
+that inhibiting a key protein can stop the destruction of synapses and
+dendritic spines commonly seen in Alzheimer’s disease.
+[https://www.reddit.com/r/science/comments/1avpohz/researchers_at_the_university_of_colorado/](https://www.reddit.com/r/science/comments/1avpohz/researchers_at_the_university_of_colorado/)
+{'neg': 0.207, 'neu': 0.793, 'pos': 0.0, 'compound': -0.743}
+
+[178] of 179 === 2024-04-05 @ 18:28:13 === https://285936586.masto.host/@2877133136/112220025242868481
+Skyview | Media Company on Instagram: "The ultimate mansion 🔥 [#mansion](https://285936586.masto.host/tags/mansion) [#colorado](https://285936586.masto.host/tags/colorado) [#coloradohomes](https://285936586.masto.host/tags/coloradohomes) [#luxurylifestyle](https://285936586.masto.host/tags/luxurylifestyle) [#luxuryhomes](https://285936586.masto.host/tags/luxuryhomes) [#exteriordesign](https://285936586.masto.host/tags/exteriordesign) [#indoorpool](https://285936586.masto.host/tags/indoorpool) [#theaterroom](https://285936586.masto.host/tags/theaterroom) [#garage](https://285936586.masto.host/tags/garage) [#carlovers](https://285936586.masto.host/tags/carlovers) [#milliondollarhomes](https://285936586.masto.host/tags/milliondollarhomes) [#housetour](https://285936586.masto.host/tags/housetour) [#pool](https://285936586.masto.host/tags/pool) [#pooldesign](https://285936586.masto.host/tags/pooldesign) [#cars](https://285936586.masto.host/tags/cars)" [https://www.instagram.com/reel/C5OSua6LHVx/](https://www.instagram.com/reel/C5OSua6LHVx/)
+{'neg': 0.088, 'neu': 0.912, 'pos': 0.0, 'compound': -0.34}
+
+[179] of 179 === 2024-04-29 @ 16:54:32 === https://285936586.masto.host/@2877133136/112355552293000007
+Camo Colorways – Eberlestock  
+[https://eberlestock.com/pages/doppelganger](https://eberlestock.com/pages/doppelganger)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+

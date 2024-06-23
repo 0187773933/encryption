@@ -151,6 +151,8 @@ func TestKyber() {
 }
 
 func TestRandom() {
+	s := encryption.GenerateRandomString( 4 )
+	fmt.Println( s )
 	x := encryption.GenerateRandomBytes( 300 )
 	fmt.Println( x )
 	y := encryption.GenerateRandomString( 300 )

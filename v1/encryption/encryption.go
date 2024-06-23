@@ -44,23 +44,27 @@ func Sha256Sum( entries [][]byte  ) ( result []byte ) {
 }
 
 func GenerateRandomBytes( byte_length int ) ( result []byte ) {
+	processing_length := byte_length
+	if processing_length < 8 { processing_length = 8 }
 	counter := 0
 	for len( result ) < byte_length {
-		entropy_one := GenerateEntropyBytes1( byte_length )
-		entropy_two := GenerateEntropyBytes2( byte_length )
-		counter_bytes := make( []byte , byte_length )
+		entropy_one := GenerateEntropyBytes1( processing_length )
+		entropy_two := GenerateEntropyBytes2( processing_length )
+		counter_bytes := make( []byte , processing_length )
 		binary.LittleEndian.PutUint64( counter_bytes , uint64( counter ) )
 		counter++
 		block := Sha256Sum( [][]byte{ entropy_one , entropy_two , counter_bytes } )
 		result = append( result , block... )
 	}
-	result = result[ : byte_length ]
+	result = result[ :byte_length ]
 	return
 }
 
-func GenerateRandomString( byte_length int ) ( result string ) {
+func GenerateRandomString( string_length int ) ( result string ) {
+	byte_length := ( ( string_length + 1 ) / 2 )
 	b := GenerateRandomBytes( byte_length )
-	result = hex.EncodeToString( b )
+	hex_string := hex.EncodeToString( b )
+	result = hex_string[ :string_length ]
 	return
 }
 
